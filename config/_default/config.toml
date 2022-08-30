@@ -1,0 +1,66 @@
+baseurl = "https://www.zint-it.de/" # Hostname (and path) to the root.
+title = "Jonatan Zint" # Site title.
+theme = "hugo-coder" # Set the theme.
+languagecode = "de" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "de" # The default content language.
+
+paginate = 20 # Default number of pages per page in pagination.
+
+pygmentsstyle = "bw" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+pygmentsUseClasses = true # new add
+
+[params] # theme parameters
+    langseparator = "|" # separates menus from language selectors.
+    author = "Jonatan Zint" # Author's name.
+    info = "Softwareberatung und IT Projekte" # Author's job title or info.
+    description = "Jonatan Zint Softwareberatung und IT Projekte" # Site description.
+    keywords = "blog,developer,personal" # Site keywords.
+    avatarURL = "img/author.png" # Contain the path of the optionnal avatar in the static folder.
+    hideCredits = true
+    hideCopyright = true
+
+    colorScheme = "auto"
+    customSCSS = ['scss/_variables.scss', 'scss/services.scss']
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    thumbnail = "images/tn.png" # default sns thumbnail
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/l0rn/"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/jonatan-zint-231447152/"
+
+[languages]
+    [languages.de]
+        languagename = "Deutsch" # The language name to be displayed in the selector.
+        title = "Jonatan Zint"
+
+        # You can configure the theme parameter for each language.
+        [languages.de.params]
+        author = "Jonatan Zint"
+        info = "Softwareberatung und IT Projekte"
+        description = "Jonatan Zint's persönliche Webseite"
+        keywords = "blog,softwareentwicklung,beratung,it"
+
+
+
+    [languages.en]
+        languagename = "English"
+        title = "Jonatan Zint"
+
+        [languages.en.params]
+            author = "Jonatan Zint"
+            info = "Software consultung and IT projects"
+            description = "Software consultung and IT projects"
+            keywords = "blog,developer,personal,software consulting"

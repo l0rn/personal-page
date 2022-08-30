@@ -1,0 +1,45 @@
+.service-row {
+  display: inline-flex;
+  flex-direction: row;
+  flex: 1;
+  gap: 8%;
+  width: 100%;
+
+  .service-column {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+
+    figure {
+      width: 80%;
+      align-self: center;
+    }
+
+    .service-colum-content {
+      font-size: 0.8em;
+
+      h3 {
+        text-align: center;
+        margin: 0.5em 0;
+        font-size: 1.6em;
+      }
+
+    }
+  }
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 1000px) {
+  .service-row {
+    flex-direction: column;
+
+    .service-column {
+      padding: 2em 0;
+
+      &:not(:last-child) {
+        border-bottom: 1px dotted black;
+      }
+    }
+  }
+}
