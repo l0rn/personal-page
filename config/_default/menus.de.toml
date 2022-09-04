@@ -25,6 +25,10 @@
   pageRef = "contact"
   weight = 30
 
+[[main]]
+  name = "Impressum"
+  pageRef = "imprint"
+  weight = 40
 
 
 # -- Footer Menu --

@@ -25,6 +25,10 @@
   pageRef = "contact"
   weight = 30
 
+[[main]]
+  name = "Imprint"
+  pageRef = "imprint"
+  weight = 40
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

@@ -1,4 +1,14 @@
++++
+title = "Impressum"
+description = ""
+date = "2022-08-30"
+author = "Jonatan Zint"
++++
 
-## Autorenvermerke
+Jonatan Zint  
+Bruchhauser Str. 1  
+27327 Martfeld
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/icongeek26" title="Icongeek26">Icongeek26</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.flaticon.com/authors/surang" title="surang">surang</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+#### Autorenvermerke
+
+Icons auf der [Leistungen-Seite](/services) erstellt von [Icongeek26](https://www.flaticon.com/authors/icongeek26), [surang](https://www.flaticon.com/authors/surang) und [Eucalyp](https://www.flaticon.com/authors/eucalyp) auf [flaticon](https://www.flaticon.com/)
