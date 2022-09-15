@@ -9,15 +9,14 @@ author = "Jonatan Zint"
     {{< service_col >}}
         {{< figure src="/img/001-web-programming.png" >}}
         {{< service_col_content heading="Entwicklung" >}}
-Ich kann neue und bestehende Softwareprojekte umsetzen, verbessern und migrieren. Für größere
+Sie wollen neue oder bestehende Softwareprojekte umsetzen, verbessern und migrieren? Kein Problem! Für größere
 Projekte vermittle ich an mein Netzwerk von Softwarespezialisten.
         {{< /service_col_content >}}
     {{< /service_col >}}
     {{< service_col >}}
         {{< figure src="/img/002-advice.png" >}}
         {{< service_col_content heading="Beratung" >}}
-Sie haben eine Idee oder ein Problem bezüglich Softwarelösungen oder IT Anlagen. Ich mit meinem weitläufigen
-Erfahrungsschatz helfen und beraten.
+Sie haben eine Idee oder ein Problem bezüglich Softwarelösungen oder IT Anlagen? Ich kann mit meinem weitläufigen Erfahrungsschatz helfen und beraten.
         {{< /service_col_content >}}
     {{< /service_col >}}
     {{< service_col >}}
