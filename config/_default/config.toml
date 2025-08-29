@@ -1,44 +1,52 @@
 baseurl = "https://www.zint-it.de/" # Hostname (and path) to the root.
 title = "Jonatan Zint" # Site title.
-theme = "hugo-coder" # Set the theme.
-languagecode = "de" # The site’s language code used to generate RSS.
-defaultcontentlanguage = "de" # The default content language.
+theme = "hugo-coder"
+languagecode = "de"
+defaultcontentlanguage = "de"
 
-paginate = 20 # Default number of pages per page in pagination.
 
-pygmentsstyle = "bw" # Color-theme or style for syntax highlighting.
-pygmentscodefences = true # Enable code fence background highlighting.
-pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
-pygmentsUseClasses = true # new add
+[pagination]
+pagerSize = 20
 
-[params] # theme parameters
-    langseparator = "|" # separates menus from language selectors.
-    author = "Jonatan Zint" # Author's name.
-    info = "Softwareberatung und IT Projekte" # Author's job title or info.
-    description = "Jonatan Zint Softwareberatung und IT Projekte" # Site description.
-    keywords = "blog,developer,personal" # Site keywords.
-    avatarURL = "img/author.png" # Contain the path of the optionnal avatar in the static folder.
-    hideCredits = true
-    hideCopyright = true
+[markup.highlight]
+style = "github-dark"
 
-    colorScheme = "auto"
-    customSCSS = ['scss/_variables.scss', 'scss/services.scss']
-    # Alignment of Mobile Menu items
-    itemscentered = true
+[params]
+  langseparator = "|" # separates menus from language selectors.
+  author = "Jonatan Zint" # Author's name.
+  info = "Softwareberatung und IT Projekte" # Author's job title or info.
+  description = "Jonatan Zint Softwareberatung und IT Projekte" # Site description.
+  keywords = "blog,developer,personal" # Site keywords.
+  avatarURL = "img/author.png" # Contain the path of the optionnal avatar in the static folder.
+  hideCredits = true
+  hideCopyright = true
 
-    thumbnail = "images/tn.png" # default sns thumbnail
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2011
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
 
 # Social links
 [[params.social]]
   name = "Github"
-  icon = "fa fa-github fa-2x"
+  icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/l0rn/"
-
 [[params.social]]
   name = "LinkedIn"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 3
+  icon = "fa-brands fa-gitlab fa-2x"
+  weight = 2
   url = "https://www.linkedin.com/in/jonatan-zint-231447152/"
 
 [languages]
