@@ -16,11 +16,6 @@
   weight = 10
 
 [[main]]
-  name = "Leistungen"
-  pageRef = "services"
-  weight = 20
-
-[[main]]
   name = "Kontakt"
   pageRef = "contact"
   weight = 30
