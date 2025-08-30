@@ -23,7 +23,7 @@ Im Folgenden finden Sie einen Auszug meiner beruflichen Stationen:
   *2016 - 2018*  
   Bei dem E-Scooter-Hersteller unu habe ich gemeinsam mit zwei Kollegen das gesamte Fulfillment-System entwickelt – von einem Headless-E-Commerce-Backend in Django und einem eleganten Checkout in Vue.js über die Anbindung an Salesforce, Speditionsdienstleister, Ersatzteilsystem, Kundenportal bis hin zum Marketing.
 * **Softwareentwicklung** bei [T-Systems MMS](https://www.t-systems-mms.com/)  
-  *2016 - 2016*
+  *2016 - 2016*  
   Für die Telekomtocher T-Systems MMS habe ich an einem großen Projekt für die interne Großauftrags-Faktura gearbeitet und eine komplexe Formularvalidierung in AngularJS realisiert.
 * **Softwareentwicklung** bei ubimake (Startup in der 3D Branche, †2017)  
   *2014 - 2016*  
