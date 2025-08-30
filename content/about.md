@@ -5,8 +5,7 @@ date = "2022-08-30"
 author = "Jonatan Zint"
 +++
 
-In meiner über 10-jährigen Berufserfahrung habe ich in verschiedensten Umgebungen gearbeitet – vom Startup bis zum Konzern. 
-Dabei habe ich an diversen Projekten mitgewirkt: von der Gestaltung von Büro-IT-Landschaften über die Entwicklung webbasierter E-Commerce-Wertschöpfungsketten bis hin zur Programmierung von Mikrocontrollern.
+Zehn Jahre Softwareentwicklung und die Gründung einer eigenen Softwaregenossenschaft haben mir einen fundierten Erfahrungsschatz vermittelt. Zahlreiche Projekte und meine unerschöpfliche Neugier haben mich mit einer großen Bandbreite an Tech-Stacks vertraut gemacht – und ich scheue mich nicht vor dem nächsten. Meine Erfahrung als Projektleiter und Agenturchef hat meinen Blick für Ergebnisse geschärft und mir einen pragmatischen, unaufgeregten Arbeitsstil verliehen. Ich kann die technische Leitung von Projekten übernehmen, lege jedoch Wert darauf, mindestens ein Drittel meiner Arbeitszeit aktiv in der Entwicklung zu arbeiten.
 
 Mit dieser Expertise kann ich Ihr Projekt unterstützen, maßgeschneiderte Strategien entwickeln und bei Bedarf das passende Team für die Umsetzung zusammenstellen.
 

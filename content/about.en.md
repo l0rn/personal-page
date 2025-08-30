@@ -5,10 +5,7 @@ date = "2022-08-30"
 author = "Jonatan Zint"
 +++
 
-In my ten years of professional experience, I've worked for both startups and large corporate enterprises. I've built
-various solutions, from office IT systems and e-commerce value chains to microcontroller programming.
-
-With this expertise, I can support your project by developing tailored strategies and assembling the right team for implementation.
+With ten years of software development experience and the founding of my own software cooperative, I bring a solid foundation of expertise. Numerous projects and my relentless curiosity have exposed me to a wide range of tech stacks – and I am always ready for the next one. My experience as a project lead and agency head has sharpened my focus on results and given me a pragmatic, calm working style. I am capable of taking on the technical leadership of projects, but I value spending at least one-third of my time actively coding.
 
 The following list provides an excerpt of my previous involvements:
 
