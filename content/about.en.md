@@ -1,7 +1,7 @@
 +++
 title = "From startups to enterprises"
 description = "As professional software developer with project lead experience I can offer valuable consulting services."
-date = "2022-08-30"
+date = "2025-08-30"
 author = "Jonatan Zint"
 +++
 
@@ -9,7 +9,7 @@ With ten years of software development experience and the founding of my own sof
 
 The following list provides an excerpt of my previous involvements:
 
-* **Freelance projects** - IT solutions and consulting
+* **Freelance projects** - IT consulting and software development  
   *2010 - now*
 * **Software development** at [Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home.html)  
   *2022 - now*  

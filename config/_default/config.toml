@@ -14,8 +14,8 @@ style = "github-dark"
 [params]
   langseparator = "|" # separates menus from language selectors.
   author = "Jonatan Zint" # Author's name.
-  info = "Softwareberatung und IT Projekte" # Author's job title or info.
-  description = "Jonatan Zint Softwareberatung und IT Projekte" # Site description.
+  info = "Softwareentwicklung und IT-Beratung" # Author's job title or info.
+  description = "Jonatan Zint - Softwareentwicklung und IT-Beratung" # Site description.
   keywords = "blog,developer,personal" # Site keywords.
   avatarURL = "img/author.png" # Contain the path of the optionnal avatar in the static folder.
   hideCredits = true
@@ -57,8 +57,8 @@ style = "github-dark"
         # You can configure the theme parameter for each language.
         [languages.de.params]
         author = "Jonatan Zint"
-        info = "Softwareberatung und IT Projekte"
-        description = "Jonatan Zint's persönliche Webseite"
+        info = "Softwareentwicklung und IT-Beratung"
+        description = "Jonatan Zint - Softwareentwicklung und IT-Beratung"
         keywords = "blog,softwareentwicklung,beratung,it"
 
 
@@ -69,6 +69,6 @@ style = "github-dark"
 
         [languages.en.params]
             author = "Jonatan Zint"
-            info = "Software consultung and IT projects"
-            description = "Software consultung and IT projects"
+            info = "Software development and IT consulting"
+            description = "Jonatan Zint - Software development and IT consulting"
             keywords = "blog,developer,personal,software consulting"

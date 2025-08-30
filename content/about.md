@@ -1,7 +1,7 @@
 +++
 title = "Von Startups zu Konzernen"
 description = "Als professioneller Softwareentwickler mit Projektleitungserfahrung, kann ich wertvolle Beratungsleistungen anbieten."
-date = "2022-08-30"
+date = "2025-08-30"
 author = "Jonatan Zint"
 +++
 
@@ -11,7 +11,7 @@ Mit dieser Expertise kann ich Ihr Projekt unterstützen, maßgeschneiderte Strat
 
 Im Folgenden finden Sie einen Auszug meiner beruflichen Stationen:
 
-* **Freiberufliche Projekte** im Bereich [IT-Lösungen und Beratungen](/services)  
+* **Freiberufliche Projekte** - IT-Beratung und Softwareentwicklung  
   *2010 - jetzt*
 * **Softwareentwicklung** bei [Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home.html)  
   *2022 - jetzt*  
@@ -29,7 +29,7 @@ Im Folgenden finden Sie einen Auszug meiner beruflichen Stationen:
   *2014 - 2016*  
   Ubimake trat während des 3D-Druck-Hypes mit dem Ziel an, eine interaktive Werkbank für Hobby-Maker zu entwickeln – eine Art CAD-Tool für Laien mit direkter Anbindung an einen 3D-Druckdienstleister. Ich habe über den gesamten Softwarestack mitgewirkt, von 3D-Entwicklung mit Three.js bis zur Backend-Anbindung.
 * **Softwareentwicklung** bei [TwoTickets.de](https://www.twotickets.de/)  
-  *2013 - 2014*
+  *2013 - 2014*  
   Für TwoTickets.de habe ich diverse Funktionen in ihrem Freikartenlotterie-Portal implementiert, welches mit Python / Django betrieben wurde. Mein spannendster Beitrag war ein Algorithmus zur Verteilung von Freikarten entsprechend den Präferenzen der Mitglieder.
 * **Softwareentwicklung** bei [arTec GmbH](https://artec-berlin.de/)  
   *2011 - 2013*  
