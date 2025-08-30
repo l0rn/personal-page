@@ -12,4 +12,4 @@ Bruchhauser Str. 1
 27327 Martfeld  
 
 {{< phone number="04255-2590436" number_raw="+4942552590436" >}}  
-{{< mail address="jonatan@zint-it.de" >}}#
+{{< mail address="jonatan@zint-it.de" >}}
