@@ -1,7 +1,7 @@
 +++
 title = "Kontakt"
 description = "Ich freue mich über Ihre Kontaktanfrage"
-date = "2022-08-30"
+date = "2025-08-30"
 author = "Jonatan Zint"
 +++
 
